@@ -1,2 +1,4 @@
 Feature A started
 Feature A completed
+Bug found in Feature A
+Bug found in Feature A
